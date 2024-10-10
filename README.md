@@ -1,2 +1,5 @@
 # Cuda-kmeans
-partial course work
+
+Partial course work
+
+Implement k-means clustering using C and Cuda.

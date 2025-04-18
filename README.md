@@ -2,4 +2,4 @@
 
 Partial course work
 
-Implement k-means clustering using C and Cuda.
+Implement k-means clustering using C++ and Cuda.
